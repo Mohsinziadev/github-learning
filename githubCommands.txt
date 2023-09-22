@@ -1,0 +1,27 @@
+Command line and git/github
+
+
+Cd —> to change directory
+Cd ..—> move out to current directory
+touch example.txt —> for creating new file
+ mkdir test-folder —> for making new folder
+History —> to check history (all commands you entered)
+Code example.js —> opens the file in viscose
+Cat —> get content of the file
+Wc example.txt -w —> gives words count
+
+Unix commands
+Cd /user/tim1/projects —> use to move to different directory of file system
+Ls —> command list all the content
+Ls -l —> list the content in l order with read and write permission
+Ls -a —> list all file and directories included all hidden files .
+Pwd —> show the full path of current working directory .
+Cp —> copy files from one destination to another .
+Mv —> moves files from one directory to another .
+
+
+GitHub commands
+Git restore —stage . (We can use . For all files or add specific file name instead of . Flag) —> to undo the git add . Command to track changes
+
+
+
